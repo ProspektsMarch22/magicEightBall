@@ -1,4 +1,4 @@
-#Magic Eight Ball
+# Magic Eight Ball
 
 A study in control-flow in basic Javascript.
 
