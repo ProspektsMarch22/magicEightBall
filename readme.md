@@ -4,7 +4,7 @@ A study in control-flow in basic Javascript.
 
 Use the variables "userName" and "userQuestion" to ask questions to the magic eight ball!
 
-If you leave these variables empty, i prepared some exceptions so the code doesn't jam. 
+If you leave these variables empty, i've prepared some exceptions so the code doesn't jam. 
 
 My personal challenge was to not implement a "if" statement whatsoever. So instead of verifying information using a conditional statement, i implemented a short-circuit evaluation, and for the random results i use a switch statement.
 
